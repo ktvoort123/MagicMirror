@@ -33,7 +33,7 @@ Module.register("calendar", {
 		showEnd: false,
 		getRelative: 6,
 		fadePoint: 0.25, // Start on 1/4th of the list.
-		hidePrivate: false,
+		hidePrivate: true,
 		hideOngoing: false,
 		colored: false,
 		coloredSymbolOnly: false,
